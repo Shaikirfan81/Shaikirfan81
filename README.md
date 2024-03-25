@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Irfan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **SQL, LOD, DAX, Visualizations**
+- 🌱 I’m very Good at  **SQL, LOD, DAX, Visualizations**
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/shaikirfan](https://www.novypro.com/profile_projects/shaikirfan)
 
@@ -44,3 +44,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikirfan81&show_icons=true&locale=en&layout=compact" alt="shaikirfan81" /></p>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
